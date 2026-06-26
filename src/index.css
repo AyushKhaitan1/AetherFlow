@@ -518,6 +518,7 @@ a {
 }
 
 /* Card sizes inside bento */
+.card-colspan-12 { grid-column: span 12; }
 .card-colspan-8 { grid-column: span 8; }
 .card-colspan-4 { grid-column: span 4; }
 .card-colspan-6 { grid-column: span 6; }
